@@ -1,0 +1,5 @@
+name age num_pets num_computers
+---- --- -------- -------------
+Ann   21        1              
+Bob   45                      2
+Cath  52        4              

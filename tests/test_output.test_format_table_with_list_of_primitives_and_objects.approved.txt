@@ -1,0 +1,6 @@
+name age num_pets 
+---- --- -------- ------
+Ann   21        1 
+                  4500
+                  banana
+Cath  52        4 

@@ -1,0 +1,3 @@
+name age num_pets
+---- --- --------
+Ann   21        1

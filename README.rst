@@ -1,0 +1,1 @@
+Formatter is a utility package for formatting text neatly adnd readably, primarily to produce unit test results that can be approved.

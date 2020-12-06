@@ -1,0 +1,8 @@
+1 int: ColumnType.NUMBER
+1.1 float: ColumnType.NUMBER
+string str: ColumnType.STRING
+[] list: ColumnType.UNKNOWN
+(5+3j) complex: ColumnType.NUMBER
+2020-11-18 date: ColumnType.DATE
+2020-11-18 11:35:44.500000 datetime: ColumnType.DATE
+11:36:01.998999 time: ColumnType.DATE
